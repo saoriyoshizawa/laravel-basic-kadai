@@ -8,8 +8,7 @@
 </head>
 
 <body>
-   <p>Hello, world!</p>
-   <p>これはindex.blade.phpファイルです。</p>
+   <p>ページが見つかりません。</p>
 </body>
 
 </html>
