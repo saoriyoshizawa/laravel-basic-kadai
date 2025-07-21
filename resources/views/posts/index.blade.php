@@ -16,7 +16,7 @@
             <th>作成日時</th>
             <th>更新日時</th>
         </tr>
-        @foreach($posts as $post)
+        @foreach($post as $post)
         <tr>
             <td>{{$post->id}}</td>
             <td>{{$post->title}}</td>
